@@ -19,7 +19,7 @@ When you create a Markdown-formatted file, you add Markdown syntax to the text t
 
 You can add Markdown formatting elements to a plaintext file using a text editor application. Or you can use one of the many Markdown applications for macOS, Windows, Linux, iOS, and Android operating systems. There are also several web-based applications specifically designed for writing in Markdown.
 
-(exercise-markdown/README.md)
+(/README.md)
 
 ```javascript
 alert("Hello!");
