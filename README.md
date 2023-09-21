@@ -9,4 +9,4 @@ Team:
 
 Create a repository called exercise-markdown, in which you will add two files and try branches.
 
-[mardown.md](/markdown.md)
+[markdown.md](/markdown.md)
